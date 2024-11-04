@@ -1,0 +1,18 @@
+this file is not in GITHUB repository so we need to connect it
+
+How to connect GITHUB repository to VS code
+
+First create repository, then use the code link and paste it in Step 3
+Step 1: git config --global user.name "Shashank6278"
+Step 2: git config --global user.email "shashankraju123@gmail.com"
+Step 3: git clone https://github.com/Shashank6278/devops.git
+
+to add newly created file to repositery
+
+git add prod.txt
+
+git add .   (add everything)
+
+git commit -m "first commit" (to save data)
+
+git push origin main ( to push into the repositery)
